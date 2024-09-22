@@ -145,4 +145,11 @@ The cached `home_sales` table was uncached to free up memory. The uncaching oper
 7. **Python Time Library**: [Python Time Module](https://docs.python.org/3/library/time.html)
    - Overview of the `time` module in Python for measuring execution time.
 
-8. **Caching in Spark**: [Caching and Persisting RDDs](https://spark.
+8. **Caching in Spark**: [Caching and Persisting RDDs](https://spark.apache.org/docs/latest/rdd-programming-guide.html#caching-and-persisting)
+   - Information on caching and persisting RDDs and DataFrames in Spark.
+
+9. **Data Partitioning in Spark**: [Partitioning Data](https://spark.apache.org/docs/latest/sql-performance-tuning.html#partitioning-data)
+   - Guide on how to effectively partition data in Spark for improved performance.
+
+10. **SQL Functions Reference**: [Spark SQL Functions](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html#pyspark.sql.functions)
+   - Reference for various SQL functions available in Spark SQL.
