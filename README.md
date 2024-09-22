@@ -132,7 +132,7 @@ The cached `home_sales` table was uncached to free up memory. The uncaching oper
 
 1. **ChatGPT**: OpenAI's ChatGPT language model (https://chat.openai.com/)
 2. **Xpert Learning Assistant**: https://bootcampspot.instructure.com/courses/6446/external_tools/313
-3. Alexander Booth Professor DATA-PT-EAST-APRIL-041524 Module 22 classroom and Bootcamp SparkSQL activities resources. 
+3. **Alexander Booth** Professor DATA-PT-EAST-APRIL-041524 Module 22 classroom and Bootcamp SparkSQL activities resources. 
 4. **Apache Spark Documentation**: [Apache Spark Official Documentation](https://spark.apache.org/docs/latest/)
    - Comprehensive guide to all features and functions of Apache Spark.
 
